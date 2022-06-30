@@ -1,1 +1,2 @@
-# RockPaperScissors
+When I started learning python, one of the first things I wrote was a rock, paper, scissors game following a YouTube tutorial. 
+I wrote this code without a tutorial or any aide and will compare it to my old code and others I can find online. 
